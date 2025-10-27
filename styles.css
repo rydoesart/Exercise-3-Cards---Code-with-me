@@ -1,0 +1,38 @@
+/*-------- GLOBAL STYLES ---------*/
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+  background-color: hsl(0, 0%, 95%);
+}
+
+/*-------- CARD ONE ---------*/
+.card-one {
+  background: hsl(0, 0%, 100%);
+  width: 500px;
+  margin: 50px;
+  padding: 30px;
+  border-radius: 5px;
+  border-top: 3px solid hsl(180, 62%, 55%);
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.card-one img {
+  border-radius: 40px;
+}
+
+.card-one h2 {
+  color: hsl(234, 12%, 34%);
+  font-weight: 600;
+}
+
+.card-one p {
+  color: hsl(229, 6%, 66%);
+}
+
+/*-------- CARD TWO ---------*/
+
+/*-------- CARD THREE ---------*/
