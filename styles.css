@@ -34,5 +34,87 @@ body {
 }
 
 /*-------- CARD TWO ---------*/
+.card-two {
+  background: url(images/iceland.jpeg) no-repeat;
+  margin: 50px;
+  color: white;
+  width:350px;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
 
+.card-two .container {
+  border: 1px solid white;
+  padding: 350px 15px 15px 15px;
+}
+
+.card-two h2 {
+
+text-transform: uppercase;
+font-family: "Fira Sans Condensed", sans-serif;
+font-size: 2rem;
+}
+
+.card-two h2 span {
+  display: block;
+  text-transform: capitalize;
+  font-family: "poppins", sans-serif;
+  font-size: 4rem;
+}
+
+.card-two a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  background: rgb(255, 221, 99);
+  padding: 15px;
+  font-weight: 700;
+
+}
 /*-------- CARD THREE ---------*/
+
+.card-three {
+  border-radius: 16px;
+  background-color: white;
+  width: 370px;
+  margin: 50px;
+  overflow: hidden;
+
+}
+
+.card-three img {
+  width: 100%;
+}
+
+.card-three .container {
+  padding: 15px;
+}
+
+.card-three span {
+  background-color: lightgray;
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.card-three a {
+  border-radius: 16px;
+  background-color: lightgrey;
+  padding: 10px;
+  display: inline-block;
+  width: 45%;
+  text-align: center;
+  text-decoration: none;
+  box-sizing: border-box;
+  margin-left: 3%;
+  color:black;
+}
+
+.card-three .buy {
+  background-color: darkgrey;
+  color: white;
+}
+
